@@ -1,2 +1,5 @@
-# SeasonOfChrist
-Swift advent calendar
+# Privacy Policy
+
+This app does not collect, store, use, or share any personal data.
+
+If you have any questions, contact: your-email@example.com
